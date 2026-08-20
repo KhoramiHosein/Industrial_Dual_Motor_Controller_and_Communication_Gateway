@@ -1,4 +1,4 @@
 ## Project Overview
 ![Project Overview](overview.png)
 ## Industrial Applications
-![Industrial Applications](applications.png)
+![Industrial Applications](overview.png)
