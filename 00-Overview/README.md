@@ -1,4 +1,4 @@
 ## Project Overview
 ![Project Overview](overview.png)
 ## Industrial Applications
-![Industrial Applications](overview.png)
+![Industrial Applications](Application_chatgpt.png)
